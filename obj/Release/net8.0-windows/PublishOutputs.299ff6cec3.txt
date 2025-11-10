@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\XIIDConfigEditor\bin\Publish\XIIDConfigEditor.exe
+C:\Users\Admin\source\repos\XIIDConfigEditor\bin\Publish\XIIDConfigEditor.dll
+C:\Users\Admin\source\repos\XIIDConfigEditor\bin\Publish\XIIDConfigEditor.deps.json
+C:\Users\Admin\source\repos\XIIDConfigEditor\bin\Publish\XIIDConfigEditor.runtimeconfig.json
+C:\Users\Admin\source\repos\XIIDConfigEditor\bin\Publish\XIIDConfigEditor.pdb

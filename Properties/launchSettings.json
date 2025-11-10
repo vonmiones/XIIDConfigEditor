@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XIIDConfigEditor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Installer Apps\\Eziriz\\.NET Reactor\\dotNET_Reactor.Console.exe\" -project \"C:\\Users\\Admin\\source\\repos\\XIIDConfigEditor\\XIIDConfigEditor.nrproj\""
+    }
+  }
+}
